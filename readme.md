@@ -1,5 +1,5 @@
-# 💫 About Me:
-JACK OF ALL TRADES,  MASTER OF SOME???<br><br>I do Web Dev, App Dev, CyberSecurity(Hopefully soon), ✨Low Level Programming✨, and whatever i end up doing in hackathons <br>I love Reverse Engineering.. ( use crackmes.one :D )<br><br>Hobbies: I Sometimes Win at geoguessr.com<br>I also read Light Novels and Manwhas<br>I like to take Leadership Responsibilities<br>
+# JACK OF ALL TRADES,  MASTER OF SOME??? 🐢🐟
+I do Web Dev, App Dev, CyberSecurity(Hopefully soon), ✨Low Level Programming✨, and whatever i end up doing in hackathons <br>I love Reverse Engineering.. ( use crackmes.one :D )<br><br>Hobbies: I Sometimes Win at geoguessr.com<br>I also read Light Novels and Manwhas<br>I like to take Leadership Responsibilities<br>
 
 
 ## 🌐 Socials:
