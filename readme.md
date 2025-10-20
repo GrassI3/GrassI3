@@ -15,7 +15,7 @@ I do Web Dev, App Dev, CyberSecurity(Hopefully soon), ✨Low Level Programming�
 ![](https://github-profile-trophy.vercel.app/?username=GrassI3&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### Quote From ORV
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=I%20Wanna%20See%20The%20Ending%20With%20You&author=Kim%20Dokja)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=I%20Want%20To%20See%20The%20Ending%20With%20You&author=Kim%20Dokja)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GrassI3&limit=5&theme=dark&combine_all_yearly_contributions=true)
